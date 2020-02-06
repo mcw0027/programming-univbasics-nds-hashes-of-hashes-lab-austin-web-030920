@@ -32,7 +32,7 @@
 
 def naming_system
   
-life = {label: "Kingdom",
+{label: "Kingdom",
     sub_category: {
         label: "Phylum",
         sub_category: {
